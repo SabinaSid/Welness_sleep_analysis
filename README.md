@@ -54,23 +54,23 @@ We observe the associations between stress levels and professions:
 ## Key visualizations
 
 ### Stress level by disorder
-![Stress level by disorder](../Images/disorder_vs_stress.png)
+![Stress level by disorder](Images/disorder_vs_stress.png)
 
 ### Sleep disorders by occupation
-![Sleep disorders by occupation](../Images/occupation_vs_disorder.png)
+![Sleep disorders by occupation](Images/occupation_vs_disorder.png)
 
 ### Stress level by occupation
-![Stress level by occupation](../Images/occupation_vs_stress.png)
+![Stress level by occupation](Images/occupation_vs_stress.png)
 
 ### Heart rate vs sleep duration & sleep quality
-![Heart rate vs sleep duration & sleep quality](../Images/heartrate_vs_sleep_duration&quality.png)
+![Heart rate vs sleep duration & sleep quality](Images/heartrate_vs_sleep_duration&quality.png)
 
 
 ### Stress level vs heart rate & sleep quality
-![Stress vs heart rate](../Images/heartrate_vs_stress.png)
+![Stress vs heart rate](Images/heartrate_vs_stress.png)
 
 ### Average sleep quality by duration and stress level
-![Quality vs duration and stress level](../Images/quality_by_duration&stress.png)
+![Quality vs duration and stress level](Images/quality_by_duration&stress.png)
 
 
 ## Tech stack
